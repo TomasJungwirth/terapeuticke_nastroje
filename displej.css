@@ -1,0 +1,376 @@
+/*
+body  {
+       font-family: Verdana, Tahoma, Cambria, sans-serif;    
+       font-size: 1.2 em;                   
+       line-height: 1.4em;                 
+       background-color: white; 
+      color: black;     /*písmo*/
+  /*  
+   background-image: url(3.jpg);
+    background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-position: center center;
+       background-size: 100% 100%;             
+      }
+      
+
+
+h1                         
+      {                           
+       font-size: 3em;          
+       text-indent: 0.5em;      
+       /*text-shadow: 5px 5px 5px gray; */
+     /* 
+      padding:15px;   
+     
+        
+    text-align: center;           
+      }
+
+
+h2
+    {
+     text-align: left;
+     font-size: 2em;
+  /*   text-shadow: 3px 3px 3px gray; */
+    /*
+     padding:10px;
+     
+     
+     text-align: left; 
+    }
+
+h3
+    {
+     text-indent: 1em; 
+    }
+
+main   
+    { 
+text-align: justify;
+width:1300px;
+margin: 50px auto;
+/*background-color: orange; */
+/*
+background-color: radial-gradient(circle at center, #FFD700, #FFA500);
+border-radius: 3px; 
+border: 5px solid black;
+
+
+}
+
+
+
+p
+    {
+    margin: 30px auto;
+   text-align: justify;
+   width:1000px;
+  
+   
+   
+   }
+
+
+
+
+div.hlavicka
+    {
+   
+ /*    text-shadow: 3px 3px 3px black; */
+ /*
+    font-color: black;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+   }
+ 
+
+
+
+
+} 
+ 
+a
+    {
+     color:black;
+     font-size: 1.5em;
+     text-decoration: none;
+    /* text-shadow: 5px 5px 5px gray;   */
+     
+     
+    }
+    
+     
+   /*
+a:hover
+    {  
+  /*   text-decoration: underline;    */
+     
+     /*color:orange;
+     
+    }   
+    
+    
+    
+a.sviti
+    {
+     color:black;
+     
+    }
+    
+
+a:hover.pata
+    {  
+  /*   text-decoration: underline;    */
+     /*
+     color: silver;
+     
+    }   
+    
+    
+header{
+         /*border-bottom:solid 1px black; */
+   /*      height:50px;
+         
+       }
+       
+       
+       
+nav {
+    font-size: 1.2em;    
+   /* position: sticky;
+    top: 0px;   */
+        
+ /*      
+    }   
+
+     
+.container {
+    display: flex;
+    justify-content: center;    
+    }
+    
+    
+    
+    
+img     
+ {
+ /*   border-radius: 30px; */
+  /*  padding: 50px; */
+/*margin: 25px auto;  
+    /*border: 1px solid black   */
+/*    width: 800px;  
+    
+    
+  
+    }   
+    
+    
+    
+    
+    
+  
+
+
+audio
+    {
+ margin: 0px 40%;
+  /*  padding: 10px;    */
+    
+    }
+    
+    
+    
+/*
+    
+footer
+    {
+text-align: center;
+
+
+    }
+    
+    */
+    
+ /*   footer {
+  /* position: bottom;   */
+ /* bottom: 0;
+  width: 100%;
+  height: 100px; 
+  color:white;
+  text-align:center;
+  
+  
+}
+    
+    
+    
+    
+    */
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    body  {
+       font-family: Verdana, Tahoma, Cambria, sans-serif;    
+       font-size: 1.2 em;                   
+       line-height: 1.4em;                 
+       background-color: black; 
+      color: white;     /*písmo*/
+background-image: url(j.jpg);
+    background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-position: center center;
+       background-size: 100% 100%;      
+      }
+      
+ 
+ 
+ main
+ {
+
+ 
+ text-align: justify;
+width:1300px;
+margin: 20px auto;
+/*background-color: purple; */
+background: radial-gradient(circle at center, #5472d3, #713d91);
+border-radius: 3px; 
+border: 5px solid black;
+
+ }
+ 
+ 
+ 
+ p
+    {
+   
+   margin: 30px auto;
+   text-align: justify;
+   width:1000px;
+  
+   }
+   
+h2
+{
+font-size: 1.2 em;
+ line-height: 1.2em; 
+}   
+   
+nav {
+    font-size: 1 em;    
+ /*  position: fixed; */
+   
+       
+    } 
+ 
+ a
+    {
+   
+     
+     font-size: 2em;
+     text-decoration: none;
+    /* text-shadow: 5px 5px 5px gray;   */
+     color: white;
+     
+    }   
+    
+
+    
+        
+    header{
+         /*border-bottom:solid 1px black; */
+         height:10px;
+         
+       }
+    
+    
+    
+       
+div.hlavicka
+    {
+
+    margin: 10px auto;
+   width:1000px;
+   border-radius: 15px; 
+ /*    text-shadow: 3px 3px 3px black; */
+    color: white;
+     
+border: 5px solid black;
+
+    background: radial-gradient(circle at center, #5472d3, #713d91);
+    text-align: center;
+    padding: 25px;
+   }
+   
+   a:hover
+    {  
+  /*   text-decoration: underline;    */
+     color:black;
+     
+    }   
+
+.sviti
+    {
+     color:black;
+     
+    }       
+    
+    
+    
+  
+    img     
+ {
+ margin: 0px auto;  
+ /*   border-radius: 30px; */
+ /*   padding: 25px;  */
+    /*border: 1px solid black   */
+   width: 600px;        
+    
+    }
+  
+  
+    

@@ -1,0 +1,118 @@
+body  {
+       font-family: Verdana, Tahoma, Cambria, sans-serif;    
+       font-size: 1.2 em;                   
+       line-height: 1.4em;                 
+       background-color: black; 
+      color: white;     /*písmo*/
+background-image: url(j.jpg);
+    background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-position: center center;
+       background-size: 100% 100%;      
+      }
+      
+ 
+ 
+ main
+ {
+
+ 
+ text-align: justify;
+width:700px;
+margin: 20px auto;
+/*background-color: purple; */
+background: radial-gradient(circle at center, #5472d3, #713d91);
+border-radius: 3px; 
+border: 5px solid black;
+
+ }
+ 
+ 
+ 
+ p
+    {
+    margin: 30px auto;
+   text-align: justify;
+   width:600px;
+  
+   }
+   
+h2
+{
+font-size: 1.2 em;
+ line-height: 1.2em; 
+}   
+   
+nav {
+    font-size: 1 em;    
+ /*  position: fixed; */
+   
+       
+    } 
+ 
+ a
+    {
+   
+     
+     font-size: 1em;
+     text-decoration: none;
+    /* text-shadow: 5px 5px 5px gray;   */
+     color: white;
+     
+    }   
+    
+
+    
+        
+    header{
+         /*border-bottom:solid 1px black; */
+         height:10px;
+         
+       }
+    
+    
+    
+       
+div.hlavicka
+    {
+
+    margin: 10px auto;
+   width:680px;
+   border-radius: 15px; 
+ /*    text-shadow: 3px 3px 3px black; */
+    color: white;
+     
+border: 5px solid black;
+
+    background: radial-gradient(circle at center, #5472d3, #713d91);
+    text-align: center;
+    padding: 25px;
+   }
+   
+   a:hover
+    {  
+  /*   text-decoration: underline;    */
+     color:black;
+     
+    }   
+
+.sviti
+    {
+     color:black;
+     
+    }       
+    
+    
+    
+  
+    img     
+ {
+ margin: 0px auto;  
+ /*   border-radius: 30px; */
+ /*   padding: 25px;  */
+    /*border: 1px solid black   */
+   width: 600px;        
+    
+    }
+  
+  

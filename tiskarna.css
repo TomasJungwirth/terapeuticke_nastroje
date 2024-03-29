@@ -1,0 +1,25 @@
+body
+  {
+  font-family: Times, Cambria, serif;
+  font-size: 12 pt;
+  background-color: white;
+  text-align: justify;
+  margin: 2.5cm, 2.5cm, 2.5cm, 4cm;
+  }
+ 
+ 
+ 
+img, video, audio, iframe
+  {
+  display: none;
+ 
+  }
+ 
+ 
+ 
+h1  
+{
+   font-size: 50 pt;
+
+}
+
